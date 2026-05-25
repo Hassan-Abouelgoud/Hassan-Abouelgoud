@@ -71,14 +71,6 @@ I'm a detail-oriented third-year CS & Engineering student passionate about **Mac
 - Supported organization of hackathons, tech competitions, and speaker panels
 - Assisted in volunteer recruitment and on-site operations
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-Abouelgoud&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Abouelgoud&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
 ---
 
