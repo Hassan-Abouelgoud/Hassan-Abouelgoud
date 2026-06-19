@@ -62,7 +62,7 @@ I'm a detail-oriented third-year CS & Engineering student passionate about **Mac
 - Negotiated service terms and delivered tailored solutions
 - Analyzed feedback to identify pain points and improve service delivery
 
-**Vice Head — SWUG Club, E-JUST** *(Feb 2025 – Jun 2025)*
+**Vice Head OC— SWUG Club, E-JUST** *(Feb 2025 – Jun 2025)*
 - Coordinated technical workshops and campus events
 - Handled logistics, marketing, and budget planning
 - Led outreach initiatives that grew the club's community presence
