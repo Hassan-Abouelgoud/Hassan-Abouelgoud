@@ -29,7 +29,15 @@ I'm a detail-oriented third-year CS & Engineering student passionate about **Mac
 - 🌐 Languages: Arabic (Native) · English (B2+ Upper-Intermediate)
 
 ---
+## 🚀 Featured Projects
 
+* **[Authentic AI Voice](https://github.com/Hassan-Abouelgoud/Authentic-AI-Voice)** An advanced speech synthesis and generation system focused on delivering highly accurate, natural-sounding AI voice cloning and generation capabilities.
+    *Tech Stack:* `Python` · `Deep Learning` · `PyTorch`
+
+* **[Secure AI-Powered Malware Classifier](https://github.com/Hassan-Abouelgoud/malware-classifier)** An end-to-end Machine Learning and Cybersecurity system that classifies Windows PE files as malware or benign. Built using a Random Forest model trained on 19,611 PE header samples, achieving **99.13% accuracy**. Features production-ready security controls like rate limiting, strict input validation, and containerized deployment.
+    *Tech Stack:* `Python` · `Scikit-Learn` · `FastAPI` · `Docker` · `Pydantic`
+
+---
 ## 🛠️ Tech Stack
 
 **Languages**
