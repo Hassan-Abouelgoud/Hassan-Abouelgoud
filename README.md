@@ -21,11 +21,10 @@
 
 ## 👤 About Me
 
-I'm a detail-oriented third-year CS & Engineering student passionate about **Machine Learning**, **Deep Learning**, and **Cybersecurity**. I combine technical skills with hands-on leadership experience in university clubs and real-world work environments. I'm actively seeking roles that leverage AI and secure software engineering.
+I'm a detail-oriented fourth-year CS & Engineering student passionate about **Machine Learning**, **Deep Learning**, and **Cybersecurity**. I combine technical skills with hands-on leadership experience in university clubs and real-world work environments. I'm actively seeking roles that leverage AI and secure software engineering.
 
 - 📍 Cairo, Egypt
-- 🎓 3rd Year at **E-JUST**, entering 4th Year (Summer 2026)
-- 🔭 Currently learning: **SAP ABAP**
+- 🎓 4th Year at **E-JUST**
 - 🌐 Languages: Arabic (Native) · English (B2+ Upper-Intermediate)
 
 ---
